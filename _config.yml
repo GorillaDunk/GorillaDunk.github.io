@@ -17,7 +17,7 @@ title: DongHyeon's Blog
 description: Programming Journey
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://gorilladunk.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-repository: GorillaDunk/GorillaDunk.github.io # for github-metadata
+repository: https://github.com/GorillaDunk/GorillaDunk.github.io.git # for github-metadata
 
 permalink: pretty
 
